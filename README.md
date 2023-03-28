@@ -5,46 +5,51 @@
 #Project Title
 Hello Microverse
 
-#Project Description
-The Hello Microverse project is for testing the implementation of front end design and checking how does it work with linters
+📖 About the project
+The Hello Microverse project is for testing the implementation of front end design and checking how does it work with html-css linters
 
-🛠 Built With
-Tech Stack
-vscode
-linters
+        🛠 Built With
+        vscode editor,chrome
+        Tech Stack
+        HTML,css and github
+        linters
+       # Key Features - using of html-css linters to check the errors on the style,webhint and lighthouse errors
 
-#Describe the tech stack and include only the relevant sections that apply to your project.
-Key Features - using of linters to check the errors before reaching to backend
-
-🚀 Live Demo
-The project will be be deployed in Netlify
+        🚀 Live Demo
+        The project will be be deployed in Netlify
 
 💻 Getting Started
-New developer could make use of your project by clone from my github account of "github/ghermaico135"
-
-To get a local copy up and running, follow these steps.
-
-Prerequisites
-In order to run this project you need: to have latest chrome browser installed
-
 Setup
+html-css linter
+github work flow
 Clone this repository to your desired folder:"github/ghermaico135"
 And try to open in any editor however recommended is vscode
-
-Usage
-To run the project, execute right click open in chrome browser
-
-#Run tests
+To get a local copy up and running, follow these steps.
+#prerequisites
+Internet
+vscode editor
+github account
+chrome latest
+Install-
+vscode
+chrome
+Usage:
+you can use for testing html-css linter errors
+Run:
+In vscode terminal or powershell and chrome
 I used html-css linter to run the test for minimize errors and to improve performance
+Deployment:
+netlify
+
 #Author
-Author miki
+Author:Michael okbamichael
 GitHub: ghermaico135
 Twitter: @mikidarling
 LinkedIn: miki
 🔭 Future Features
 new feature-1 will be added to make more dynamic by linking with javascript
 
-#Contributing
+🤝Contributing
 Contributions, issues, and feature requests are welcome!
 
 🙏 Acknowledgments
