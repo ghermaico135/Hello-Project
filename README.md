@@ -1,4 +1,12 @@
-#Hello Microverse Project
+#Readme Hello microverse
+
+<div align="center">
+
+  <h3><b>Hello Microverse Project</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -6,176 +14,139 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello_microverse] <a href="README.md"> Hello_microverse</a>
+<!-- PROJECT DESCRIPTION -->
 
- <h1 class="header">Hello Microverse!</h1>
+# 📖 Hello Microverse
 
-> Describe your project in 1 or 2 sentences.
+**Hello Microverse Project** is about mastering and configuring all the tools and best
+practices I've learned about how to document my work in a professional
+way considering proper Github workflow and especially using other technical
+topics like html-css linters and github pull requests.
 
-**[hello_microverse]** is a simple project to set up a working linters configuration and well detailed file structure based on github workflows
+## 🛠 Built With
 
-## 🛠 Built With <a name="built-with"></a>
+Html and css
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li>html</li>
+    <li><a href="https://github.com/ghermaico135/Hello-Project">HTML and CSS</a></li>
   </ul>
 </details>
-<details>
-  <summary>Style</summary>
-  <ul>
-    <li>Css</li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>none</li>
-  </ul>
-</details>
+<!-- Features -->
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>None</li>
-  </ul>
-</details>
+### Key Features
 
-### Key Features <a name="key-features"></a>
+- **[Key Feature1:]** Code Correction is done by html-css Linter
+- **[Key Feature2:]** Applied Correct Github work flow and documented in
+  professional way
 
-> Describe between 1-3 key features of the application.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **[Zero html-css linters error]**
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Not available at the moment]()
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
-Clone this repository to your desired folder:
-
-````sh
-  cd Hello-Project
-  git https://github.com/ghermaico135/Hello-Project
 
 ### Prerequisites
 
 In order to run this project you need:
 
-install a vscode text editor or any other editor
-chrome
+- vscode.
+
+- git.
+
+- set up an index.html document.
+- set up a style.css document.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Run this commands:
-
-```sh
-  cd Hello-Project
-  git https://github.com/ghermaico135/Hello-Project
-````
+- Navigate to the directory where you want clone this project in your computer
+  `$ cd Desktop/`
+  `$ git clone https://github.com/ghermaico135/Hello-Project.git`
 
 ### Install
 
-Install this project with:
-
-Run this command:
-
-```sh
-  cd hello-microversehttps://github.com/ghermaico135/Hello-Project
-  node.js v12 and above
-```
+Install this project with this command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command by opening the
+vscode with the command `code .`
 
-Example command:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```sh
-  use git bash to open in Vscode
-```
+<!-- AUTHORS -->
 
-### Run tests
+## 👥 Authors
 
-To run tests, run the following command:
+👤 **Michael okbamichael**
 
-Example command:
+- GitHub: [ghermaico135](https://github.com/ghermaico135)
+- Twitter: [@Mikidarling3](https://twitter.com/@Mikidarling3)
+- LinkedIn: [Michael okbamichael](https://www.linkedin.com/in/michael-okbamichael-966106263/)
 
-```sh
-  Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters
-```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## 🔭 Future Features
 
-You can deploy this project using:
+- [1] **[ Setting Up A Professional Github Repository.]**
 
-Github Page
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/ghermaico135)
-- Twitter: [@twitterhandle](https://twitter.com/@mikidarling)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/miki)
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[add linters for html, css]**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check on us.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support
 
-> Write a message to encourage readers to support your project
+If you like this project, give it a star ⭐ or comments thats constructive
 
-If you like this project, please give your rating or suggest to me how to make it better
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+<!-- ACKNOWLEDGEMENTS -->
 
-> Give credit to everyone who inspired your codebase.
+## 🙏 Acknowledgments
 
-I would like to thank my stand-up team and reviewer
+I would really like thank Microverse for setting up this project for student
 
-## 📝 License <a name="MIT license"></a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./LICENSE) licensed.
+## ❓ FAQ (OPTIONAL)
+
+- **[How is learning in Microverse program? ]**
+
+  - [I will witness, I really enjoy and get a lot of experience.]
+
+<!-- LICENSE -->
+
+## 📝 License
+
+This project is [MIT](./MIT-license) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
